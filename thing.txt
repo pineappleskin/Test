@@ -1,9 +1,9 @@
-This is a thingy
-This is another thingy
-This is yet another thingy
+This is a thingeter
+This is another thingeter
+This is yet another thingeter
 This
 is
 the
 fourth
-thingy
+thingeter
 ***This is some stuff***
